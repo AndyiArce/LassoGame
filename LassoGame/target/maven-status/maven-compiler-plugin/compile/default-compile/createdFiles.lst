@@ -1,0 +1,6 @@
+com\mycompany\lassogame\GameObject.class
+com\mycompany\lassogame\HighScorer.class
+com\mycompany\lassogame\Lasso.class
+com\mycompany\lassogame\LassoGame.class
+com\mycompany\lassogame\MouseListener.class
+com\mycompany\lassogame\GamePanel.class
